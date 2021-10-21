@@ -5,7 +5,7 @@
   </a>
 </p>
 
-
+[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/naotarian19)
 <!--
 **naonao0702/naonao0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
